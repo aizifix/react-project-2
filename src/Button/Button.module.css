@@ -1,0 +1,32 @@
+.button {
+    background-color: hsl(225, 4%, 20%);
+    padding: 0.6rem 1rem;
+    color: hsl(0, 0%, 100%);
+    margin: 0 0.5rem;
+    border-radius: 0.2rem;
+    font-size: 0.9rem;
+    border: 1px solid transparent;
+}
+
+.button:hover {
+    border: 1px solid hsl(0, 0%, 38%);
+}
+
+.subContainer {
+    text-align: center;
+    font-size: 0.8rem;
+    margin-top: 2.5rem;
+    color: hsl(0, 0%, 68%);
+}
+
+.spanArea {
+    margin: 0 0.3rem;
+}
+
+.a {
+    color: hsl(217, 89%, 76%);
+}
+
+.a:hover {
+    text-decoration: underline;
+}
